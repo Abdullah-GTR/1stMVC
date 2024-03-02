@@ -1,2 +1,3 @@
-# 1stMVC
-Its Like a Ecommerce site in Dot Net Project so its not complete but i made this one also
+# MOvie Watch
+Its a movie site where you can watch movies its not complete yet I'm working on it
+
