@@ -1,0 +1,15 @@
+/* wishlist1.css */
+table, th, td {
+    border: 1px solid;
+    border-radius: 10px;
+    text-align: center; /* Center text in cells */
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.button-row button {
+    margin: 5px; /* Add margin for spacing */
+}
